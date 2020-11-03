@@ -8,5 +8,3 @@ class Acronym
   end
 
 end
-
-# \w \d \s
